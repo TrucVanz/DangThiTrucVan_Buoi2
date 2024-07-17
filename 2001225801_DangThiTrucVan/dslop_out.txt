@@ -1,0 +1,30 @@
+Ten lop: 10A, Si so: 3
+Danh sach sinh vien:
+Ho ten: Nguyen Van A, Diem TB: 9, Xep loai: Gioi
+Ho ten: Tran Thi B, Diem TB: 7.5, Xep loai: Kha
+Ho ten: Le Van C, Diem TB: 6, Xep loai: Trung binh
+Ten lop: 11B, Si so: 4
+Danh sach sinh vien:
+Ho ten: Nguyen Van D, Diem TB: 8.5, Xep loai: Gioi
+Ho ten: Tran Thi E, Diem TB: 9.2, Xep loai: Gioi
+Ho ten: Le Thi F, Diem TB: 5.5, Xep loai: Trung binh
+Ho ten: Nguyen Van G, Diem TB: 7, Xep loai: Kha
+Ten lop: 12C, Si so: 2
+Danh sach sinh vien:
+Ho ten: Nguyen Van H, Diem TB: 6.8, Xep loai: Kha
+Ho ten: Tran Thi I, Diem TB: 7.9, Xep loai: Kha
+Ten lop: 10B, Si so: 5
+Danh sach sinh vien:
+Ho ten: Le Van J, Diem TB: 8, Xep loai: Gioi
+Ho ten: Nguyen Van K, Diem TB: 6.5, Xep loai: Kha
+Ho ten: Tran Thi L, Diem TB: 7.2, Xep loai: Kha
+Ho ten: Nguyen Van M, Diem TB: 9.1, Xep loai: Gioi
+Ho ten: Le Thi N, Diem TB: 5, Xep loai: Trung binh
+Ten lop: 11A, Si so: 6
+Danh sach sinh vien:
+Ho ten: Tran Van O, Diem TB: 7, Xep loai: Kha
+Ho ten: Nguyen Thi P, Diem TB: 8.3, Xep loai: Gioi
+Ho ten: Le Van Q, Diem TB: 6.4, Xep loai: Trung binh
+Ho ten: Tran Thi R, Diem TB: 7.5, Xep loai: Kha
+Ho ten: Nguyen Van S, Diem TB: 8.6, Xep loai: Gioi
+Ho ten: Le Thi T, Diem TB: 9, Xep loai: Gioi

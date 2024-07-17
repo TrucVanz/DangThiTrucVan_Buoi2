@@ -1,0 +1,46 @@
+5
+10A 3
+Nguyen Van A
+9.0
+Tran Thi B
+7.5
+Le Van C
+6.0
+11B 4
+Nguyen Van D
+8.5
+Tran Thi E
+9.2
+Le Thi F
+5.5
+Nguyen Van G
+7.0
+12C 2
+Nguyen Van H
+6.8
+Tran Thi I
+7.9
+10B 5
+Le Van J
+8.0
+Nguyen Van K
+6.5
+Tran Thi L
+7.2
+Nguyen Van M
+9.1
+Le Thi N
+5.0
+11A 6
+Tran Van O
+7.0
+Nguyen Thi P
+8.3
+Le Van Q
+6.4
+Tran Thi R
+7.5
+Nguyen Van S
+8.6
+Le Thi T
+9.0
